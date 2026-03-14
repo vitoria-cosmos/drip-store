@@ -1,16 +1,56 @@
-# React + Vite
+# 🛍️ Virtual Store - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-18.2.0-blue)
+![Vite](https://img.shields.io/badge/Vite-4.0.0-purple)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.0-38B2AC)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-Currently, two official plugins are available:
+Projeto frontend de uma loja virtual desenvolvido com React, utilizando Vite como ferramenta de build e TailwindCSS para estilização.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📋 Sobre o Projeto
 
-## React Compiler
+Este é um projeto de loja virtual desenvolvido para praticar e demonstrar habilidades em desenvolvimento frontend moderno. A aplicação simula uma experiência completa de e-commerce, incluindo listagem de produtos, carrinho de compras e processo de checkout.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### ✨ Funcionalidades
 
-## Expanding the ESLint configuration
+- 🏠 Página inicial com produtos em destaque
+- 🔍 Busca e filtro de produtos
+- 🛒 Carrinho de compras dinâmico
+- 📱 Design responsivo
+- ⚡ Performance otimizada com Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tecnologias Utilizadas
+
+- **React** ^18.2.0 - Biblioteca para construção de interfaces
+- **Vite** ^4.0.0 - Ferramenta de build e desenvolvimento
+- **TailwindCSS** ^3.3.0 - Framework CSS para estilização
+- **React Router DOM** ^6.8.0 - Roteamento da aplicação (se utilizado)
+- **Axios** ^1.3.0 - Cliente HTTP para requisições (se utilizado)
+
+## 📦 Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina:
+
+- [Node.js](https://nodejs.org/) (versão 16 ou superior)
+- [npm](https://www.npmjs.com/) (geralmente vem com o Node.js)
+
+## 🔧 Instalação e Execução
+
+# Instale as dependências
+
+npm install
+
+# Execute o projeto em desenvolvimento
+
+npm run dev
+
+# Para build de produção
+
+npm run build
+
+### Clone o repositório
+
+```bash
+git clone https://github.com/vitoria-cosmos/drip-store.git
+cd loja-drip
+<p align="center">Desenvolvido com 💜 por [Maria Vitoria Cosmo de Sousa]</p> ```
