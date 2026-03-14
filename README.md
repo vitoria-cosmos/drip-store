@@ -58,5 +58,5 @@ git clone https://github.com/vitoria-cosmos/drip-store.git
 cd loja-drip
 ```
 
-<p align="center">Desenvolvido com 💜 por [Maria Vitoria Cosmo de Sousa]</p> 
+<p align="center">Desenvolvido com 💜 por Maria Vitoria Cosmo de Sousa</p> 
 
