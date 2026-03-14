@@ -52,5 +52,7 @@ npm run build
 
 ```bash
 git clone https://github.com/vitoria-cosmos/drip-store.git
+
+```bash
 cd loja-drip
-<p align="center">Desenvolvido com 💜 por [Maria Vitoria Cosmo de Sousa]</p> ```
+
